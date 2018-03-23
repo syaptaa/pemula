@@ -1,0 +1,2 @@
+# pemula
+VCS sistem digital
